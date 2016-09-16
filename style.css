@@ -1,0 +1,14 @@
+	.last.container {
+	  margin-bottom: 300px !important;
+	}
+	.ui.header.menu {
+	    margin: 1em;
+	}
+	h2.ui.center.header {
+		margin: 4em 0em 2em;
+	}
+	h3.ui.center.header {
+	   	margin-top: 2em;
+		padding: 2em 0em;
+	}
+
